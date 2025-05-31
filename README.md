@@ -29,7 +29,7 @@ To extract key insights and visualize FIFA World Cup data across four main areas
 - Average goals per match over the years.
 - Top World Cup winning teams.
 
-![Tournament Overview Dashboard](./wc%20ss1.png)
+![Tournament Overview Dashboard](https://github.com/Rishinroy2000/FIFA_World_Cup_Data_Analytical_Dashboard/blob/main/Tournament%20Overview%20Dashboard%20ss.png)
 
 ---
 
@@ -39,7 +39,7 @@ To extract key insights and visualize FIFA World Cup data across four main areas
 - Top teams by win percentage.
 - Impact of home advantage.
 
-![Team Performance Dashboard](./wc%20ss2.png)
+![Team Performance Dashboard](https://github.com/Rishinroy2000/FIFA_World_Cup_Data_Analytical_Dashboard/blob/main/Team%20Performance%20Analysis%20Dashboard%20ss.png)
 
 ---
 
@@ -48,7 +48,7 @@ To extract key insights and visualize FIFA World Cup data across four main areas
 - Winning teams, scorecards, and top match results.
 - Biggest goal differences in tournament history.
 
-![Match-Level Insights Dashboard](./wc%20ss3.png)
+![Match-Level Insights Dashboard](https://github.com/Rishinroy2000/FIFA_World_Cup_Data_Analytical_Dashboard/blob/main/Match-Level%20Insights%20Dashboard%20ss.png)
 
 ---
 
@@ -58,7 +58,7 @@ To extract key insights and visualize FIFA World Cup data across four main areas
 - Most active and high-scoring coaches.
 - Substitution effectiveness (starters vs. substitutes).
 
-![Players and Coaches Analytics Dashboard](./wc%20ss4.png)
+![Players and Coaches Analytics Dashboard](https://github.com/Rishinroy2000/FIFA_World_Cup_Data_Analytical_Dashboard/blob/main/Players%20and%20Coaches%20Analytics%20Dashboard%20ss.png)
 
 ---
 
@@ -75,7 +75,7 @@ To extract key insights and visualize FIFA World Cup data across four main areas
 
 ## 🗂 Data Source
 
-- 📄 [Download the dataset from Kaggle](https://www.kaggle.com/datasets/ananaym/world-cup)
+- 📄 [(Download the dataset)](https://drive.google.com/file/d/1R4cUpUh0FTZGVcJiKSOsqHXEJ6l1zwS-/view)
 
 ---
 
